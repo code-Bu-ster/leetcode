@@ -47,6 +47,7 @@ var orangesRotting = function(grid) {
     return -1;
 };
 
-// console.log(orangesRotting([[2,1,1],[1,1,0],[0,1,1]]));
-// console.log(orangesRotting( [[2,1,1],[0,1,1],[1,0,1]]));
-// console.log(orangesRotting([[0,2]]));
+//To Test
+// console.log(orangesRotting([[2,1,1],[1,1,0],[0,1,1]]));  output: 4
+// console.log(orangesRotting( [[2,1,1],[0,1,1],[1,0,1]])); output: -1
+// console.log(orangesRotting([[0,2]]));                    output: 0
